@@ -95,7 +95,7 @@ if (!class_exists('WriterWidgetPlugin'))
       // and what to do next.
       if (get_option('ww_display_message'))
       {
-        $option_link = admin_url('options-general.php?page=suite101-writerwidget/suite101-writerwidget.php');
+        $option_link = admin_url('options-general.php?page=suite101-writers-widget/suite101-writerwidget.php');
         echo('<div class="error fade"><p>'.
              __('You must now configure your widget by clicking <a href="'.$option_link.'">here</a>.', 'ww_domain').
              '</p></div>');
