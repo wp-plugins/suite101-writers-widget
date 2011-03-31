@@ -23,6 +23,7 @@ We're proud to be releasing a new wordpress widget that will allow writers to
 link back to their work from the sidebars of their self-hosted wordpress blogs!
 
 What's new?
+
  * The new widget is much improved in the design department, with writers having three design layouts to choose from. There will be a layout that works with your blog for sure.
  * In addition, this widget provides spiderable, search friendly links back to article pages. This is a big step up from the old widget, which did not have spiderable links to articles.
  * Lastly, the widget contains links to upper level pages where your work appears – and you can choose these pages when setting up your widget! Stronger pages make sure that your articles get the most internal support possible.
