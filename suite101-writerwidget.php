@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Suite101 Writer's Widget
  * Description: Include a feed of writer's articles on your blog.
- * Version: 1.0
+ * Version: 1.1
  * Author: Suite101
  * Author URI: http://www.suite101.com
 **/
